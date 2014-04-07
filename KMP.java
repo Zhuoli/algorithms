@@ -1,4 +1,4 @@
-package kmp;
+package algorithms;
 
 public class KMP {
 	
@@ -43,6 +43,10 @@ public class KMP {
 		String s="bacbababaabcbab";
 		String p="ababaca";
 		int index=instance.kmpMatch(s, p);
-		System.out.println(s.substring(index));
+		if(index>0){
+			System.out.println(s.substring(index));
+		}else{
+			System.out.println("Don't match!");
+		}
 	}
 }

@@ -1,0 +1,11 @@
+/Users/zhuoli/Projects/github.com/algorithms/bin/Debug/netcoreapp2.2/algorithms.deps.json
+/Users/zhuoli/Projects/github.com/algorithms/bin/Debug/netcoreapp2.2/algorithms.runtimeconfig.json
+/Users/zhuoli/Projects/github.com/algorithms/bin/Debug/netcoreapp2.2/algorithms.runtimeconfig.dev.json
+/Users/zhuoli/Projects/github.com/algorithms/bin/Debug/netcoreapp2.2/algorithms.dll
+/Users/zhuoli/Projects/github.com/algorithms/bin/Debug/netcoreapp2.2/algorithms.pdb
+/Users/zhuoli/Projects/github.com/algorithms/obj/Debug/netcoreapp2.2/algorithms.csprojAssemblyReference.cache
+/Users/zhuoli/Projects/github.com/algorithms/obj/Debug/netcoreapp2.2/algorithms.csproj.CoreCompileInputs.cache
+/Users/zhuoli/Projects/github.com/algorithms/obj/Debug/netcoreapp2.2/algorithms.AssemblyInfoInputs.cache
+/Users/zhuoli/Projects/github.com/algorithms/obj/Debug/netcoreapp2.2/algorithms.AssemblyInfo.cs
+/Users/zhuoli/Projects/github.com/algorithms/obj/Debug/netcoreapp2.2/algorithms.dll
+/Users/zhuoli/Projects/github.com/algorithms/obj/Debug/netcoreapp2.2/algorithms.pdb
